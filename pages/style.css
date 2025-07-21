@@ -15,6 +15,7 @@
   width: 100%;
 }
 
+<<<<<<< HEAD
 #contact {
   width: 50%;
   margin: 0 auto 50px auto;
@@ -48,3 +49,13 @@
   background: linear-gradient(to bottom right, #493a40, #2c424d);
 }
   
+=======
+footer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  background-color: #333333;
+  color: white;
+  height: 150px;
+}
+>>>>>>> fe04d2faf5f118139396b46e4cc134b71d6aaf92
